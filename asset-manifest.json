@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/soozip_landing/static/css/main.b561c8bc.chunk.css",
-    "main.js": "/soozip_landing/static/js/main.d0ab3e8d.chunk.js",
-    "main.js.map": "/soozip_landing/static/js/main.d0ab3e8d.chunk.js.map",
-    "runtime-main.js": "/soozip_landing/static/js/runtime-main.db1ab3d2.js",
-    "runtime-main.js.map": "/soozip_landing/static/js/runtime-main.db1ab3d2.js.map",
-    "static/js/2.de2039c5.chunk.js": "/soozip_landing/static/js/2.de2039c5.chunk.js",
-    "static/js/2.de2039c5.chunk.js.map": "/soozip_landing/static/js/2.de2039c5.chunk.js.map",
-    "static/js/3.5b3fc4a9.chunk.js": "/soozip_landing/static/js/3.5b3fc4a9.chunk.js",
-    "static/js/3.5b3fc4a9.chunk.js.map": "/soozip_landing/static/js/3.5b3fc4a9.chunk.js.map",
+    "main.css": "/soozip_landing/static/css/main.d050eac5.chunk.css",
+    "main.js": "/soozip_landing/static/js/main.413adcea.chunk.js",
+    "main.js.map": "/soozip_landing/static/js/main.413adcea.chunk.js.map",
+    "runtime-main.js": "/soozip_landing/static/js/runtime-main.0dcb6d6a.js",
+    "runtime-main.js.map": "/soozip_landing/static/js/runtime-main.0dcb6d6a.js.map",
+    "static/js/2.c6ae1041.chunk.js": "/soozip_landing/static/js/2.c6ae1041.chunk.js",
+    "static/js/2.c6ae1041.chunk.js.map": "/soozip_landing/static/js/2.c6ae1041.chunk.js.map",
+    "static/js/3.59f2998b.chunk.js": "/soozip_landing/static/js/3.59f2998b.chunk.js",
+    "static/js/3.59f2998b.chunk.js.map": "/soozip_landing/static/js/3.59f2998b.chunk.js.map",
     "index.html": "/soozip_landing/index.html",
-    "static/css/main.b561c8bc.chunk.css.map": "/soozip_landing/static/css/main.b561c8bc.chunk.css.map",
-    "static/js/2.de2039c5.chunk.js.LICENSE.txt": "/soozip_landing/static/js/2.de2039c5.chunk.js.LICENSE.txt",
+    "static/css/main.d050eac5.chunk.css.map": "/soozip_landing/static/css/main.d050eac5.chunk.css.map",
+    "static/js/2.c6ae1041.chunk.js.LICENSE.txt": "/soozip_landing/static/js/2.c6ae1041.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/soozip_landing/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.db1ab3d2.js",
-    "static/js/2.de2039c5.chunk.js",
-    "static/css/main.b561c8bc.chunk.css",
-    "static/js/main.d0ab3e8d.chunk.js"
+    "static/js/runtime-main.0dcb6d6a.js",
+    "static/js/2.c6ae1041.chunk.js",
+    "static/css/main.d050eac5.chunk.css",
+    "static/js/main.413adcea.chunk.js"
   ]
 }
