@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/soozip_landing/static/css/main.9c5ba9c7.chunk.css",
-    "main.js": "/soozip_landing/static/js/main.1bca950c.chunk.js",
-    "main.js.map": "/soozip_landing/static/js/main.1bca950c.chunk.js.map",
+    "main.js": "/soozip_landing/static/js/main.62f06b56.chunk.js",
+    "main.js.map": "/soozip_landing/static/js/main.62f06b56.chunk.js.map",
     "runtime-main.js": "/soozip_landing/static/js/runtime-main.27ba20f7.js",
     "runtime-main.js.map": "/soozip_landing/static/js/runtime-main.27ba20f7.js.map",
     "static/js/2.7dcdf898.chunk.js": "/soozip_landing/static/js/2.7dcdf898.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.27ba20f7.js",
     "static/js/2.7dcdf898.chunk.js",
     "static/css/main.9c5ba9c7.chunk.css",
-    "static/js/main.1bca950c.chunk.js"
+    "static/js/main.62f06b56.chunk.js"
   ]
 }
