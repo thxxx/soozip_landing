@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/soozip_landing/static/css/main.9c5ba9c7.chunk.css",
-    "main.js": "/soozip_landing/static/js/main.7bfc9e4e.chunk.js",
-    "main.js.map": "/soozip_landing/static/js/main.7bfc9e4e.chunk.js.map",
-    "runtime-main.js": "/soozip_landing/static/js/runtime-main.27ba20f7.js",
-    "runtime-main.js.map": "/soozip_landing/static/js/runtime-main.27ba20f7.js.map",
-    "static/js/2.7dcdf898.chunk.js": "/soozip_landing/static/js/2.7dcdf898.chunk.js",
-    "static/js/2.7dcdf898.chunk.js.map": "/soozip_landing/static/js/2.7dcdf898.chunk.js.map",
-    "static/js/3.890fa38e.chunk.js": "/soozip_landing/static/js/3.890fa38e.chunk.js",
-    "static/js/3.890fa38e.chunk.js.map": "/soozip_landing/static/js/3.890fa38e.chunk.js.map",
+    "main.js": "/soozip_landing/static/js/main.1c440ae5.chunk.js",
+    "main.js.map": "/soozip_landing/static/js/main.1c440ae5.chunk.js.map",
+    "runtime-main.js": "/soozip_landing/static/js/runtime-main.d3ac6d1f.js",
+    "runtime-main.js.map": "/soozip_landing/static/js/runtime-main.d3ac6d1f.js.map",
+    "static/js/2.80c332ce.chunk.js": "/soozip_landing/static/js/2.80c332ce.chunk.js",
+    "static/js/2.80c332ce.chunk.js.map": "/soozip_landing/static/js/2.80c332ce.chunk.js.map",
+    "static/js/3.3fee6867.chunk.js": "/soozip_landing/static/js/3.3fee6867.chunk.js",
+    "static/js/3.3fee6867.chunk.js.map": "/soozip_landing/static/js/3.3fee6867.chunk.js.map",
     "index.html": "/soozip_landing/index.html",
     "static/css/main.9c5ba9c7.chunk.css.map": "/soozip_landing/static/css/main.9c5ba9c7.chunk.css.map",
-    "static/js/2.7dcdf898.chunk.js.LICENSE.txt": "/soozip_landing/static/js/2.7dcdf898.chunk.js.LICENSE.txt",
+    "static/js/2.80c332ce.chunk.js.LICENSE.txt": "/soozip_landing/static/js/2.80c332ce.chunk.js.LICENSE.txt",
     "static/media/Group2.86e2a827.png": "/soozip_landing/static/media/Group2.86e2a827.png",
     "static/media/back.ffc60c22.png": "/soozip_landing/static/media/back.ffc60c22.png",
     "static/media/group3.2baf9469.png": "/soozip_landing/static/media/group3.2baf9469.png",
@@ -20,9 +20,9 @@
     "static/media/pin.538aa744.png": "/soozip_landing/static/media/pin.538aa744.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.27ba20f7.js",
-    "static/js/2.7dcdf898.chunk.js",
+    "static/js/runtime-main.d3ac6d1f.js",
+    "static/js/2.80c332ce.chunk.js",
     "static/css/main.9c5ba9c7.chunk.css",
-    "static/js/main.7bfc9e4e.chunk.js"
+    "static/js/main.1c440ae5.chunk.js"
   ]
 }
