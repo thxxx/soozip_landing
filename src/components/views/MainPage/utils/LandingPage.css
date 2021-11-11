@@ -1,0 +1,272 @@
+@font-face {
+  font-family: 'TTTogether';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/TTTogetherA.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+.allcontainer{
+  scroll-snap-type: y mandatory;
+}
+.container{
+    display:flex;
+    font-size: 1.5em;
+    flex-direction: row;
+    padding-left:10%;
+    scroll-snap-align: center;
+}
+.spin{
+    background-color:red;
+    width:20%;
+}
+.images{
+  width:90%;
+  margin-top:-50px;
+}
+.images2{
+  width:70%;
+  margin-left:25%;
+  margin-top:-20px;
+}
+.textpart1{
+  width:50%;
+}
+.imagepart1{
+  width:50%;
+}
+.pin{
+  margin-top:-1%;
+  width:190px;
+}
+.titleMain{
+  color:white;
+  font-family: TTTogether;
+  font-size: 60px;
+  margin-top:7%;
+}
+.titleItems{
+  color:black;
+  font-family: TTTogether;
+  font-size: 20px;
+  margin-top:-6%;
+}
+.titleWe{
+  color:white;
+  font-family: TTTogether;
+  font-size: 40px;
+  margin-top:20%;
+  background:linear-gradient(to right, rgb(255, 138, 60) 30%, rgba(250, 250, 250, 0.363));
+  padding:5px;
+  border-radius:10px;
+}
+.Button{
+  width:210px;
+  height:80px;
+  background-color:white;
+  border-radius: 45px;
+  border: 1px solid #47b9ff;
+  box-shadow: 5px 5px 10px rgba(25,25,25,0.4);
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  color:#47b9ff;
+  font-size:0.8em;
+  font-family: TTTogether;
+  font-weight:200;
+  position:absolute;
+  bottom:30px;
+  left:49%;
+}
+
+.secondBlock{
+  display:flex;
+  scroll-snap-align: center;
+  width:100%;
+  background-color:white;
+  flex-direction: row;
+}
+.textpart{
+  width:30%;
+  padding-top:8%;
+  padding-left:10%;
+}
+.imagepart{
+  width:70%;
+}
+.backImage{
+  width:100%;
+  margin-left:0%;
+}
+.titleMain2{
+  color:#47b9ff;
+  font-family: TTTogether;
+  font-size: 32px;
+}
+.titleDesc{
+  color:rgb(90, 90, 90);
+  font-family: TTTogether;
+  margin-top:-3%;
+  font-size: 20px;
+}
+.desc{
+  color:black;
+  font-family: TTTogether;
+  font-size: 22px;
+  margin-top:16%;
+}
+.apply{
+  height:80px;
+  width:270px;
+  background-color:#47b9ff;
+  border-radius: 40px;
+  border: 1px solid #47b9ff;
+  box-shadow: 5px 5px 10px rgba(25,25,25,0.4);
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  color:white;
+  font-size:25px;
+  font-family: TTTogether;
+  font-weight:200;
+  margin-top:10px;
+}
+.logoimage{
+  width:50px;
+  height:50px;
+  border-radius:15px;
+  margin-right:10px;
+}
+.logo{
+  flex-direction:row;
+  display: flex;
+  align-items: center;
+  margin-top:-30px;
+  padding-left:5%;
+}
+.logodesc{
+  color:black;
+  /* font-family: TTTogether; */
+  font-size: 2em;
+  margin-bottom:9%;
+}
+.input{
+  height:40px;
+  width:90%;
+}
+.starbucks{
+  font-family: TTTogether;
+  margin-left:10px;
+  color:green;
+  font-weight: 50;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .spin {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @media (max-width: 800px) {
+    .container{
+      flex-direction: column;
+    }  
+    .pin{
+      margin-top:-5%;
+      width:140px;
+    }
+    .textpart1{
+      width:90%;
+    }
+    .titleMain{
+      color:white;
+      font-family: TTTogether;
+      font-size: 32px;
+      margin-top:5%;
+    }
+    .titleItems{
+      color:black;
+      font-family: TTTogether;
+      font-size: 15px;
+      margin-top:-6%;
+    }
+    .titleWe{
+      color:white;
+      font-family: TTTogether;
+      font-size: 26px;
+      margin-top:15%;
+      background:linear-gradient(to right, rgb(255, 138, 60) 30%, rgba(250, 250, 250, 0.363));
+      padding:5px;
+      border-radius:10px;
+    }
+    .imagepart1{
+      width:100%;
+      flex-direction:column;
+    }
+    .images{
+      margin-left:-10px;
+      width:47%;
+      margin-top:-10px;
+    }
+    .images2{
+      width:47%;
+      margin-top:-10px;
+      margin-left:4%;
+    }
+    .Button{
+      width:190px;
+      height:70px;
+      font-weight:200;
+      position:absolute;
+      bottom:30px;
+      left:25%;
+    }
+    .secondBlock{
+      display:flex;
+      scroll-snap-align: center;
+      width:100%;
+      padding-bottom:-10%;
+      background-color:white;
+      flex-direction: column;
+    }
+    .textpart{
+      text-align:center;
+      width:100%;
+      padding-top:8%;
+      padding-left:0%;
+      z-index:10;
+      background-color:rgba(255, 255, 255, 0.85);
+      height:100%;
+    }
+    .titleMain2{
+      color:#47b9ff;
+      font-family: TTTogether;
+      font-size: 30px;
+    }
+    .titleDesc{
+      color:rgb(90, 90, 90);
+      font-family: TTTogether;
+      margin-top:-3%;
+      font-size: 18px;
+    }
+    .imagepart{
+      position:absolute;
+      z-index:5;
+      width:100%;
+      margin-left:00%;
+      margin-top:42%;
+    }
+    .logo{
+      margin-left:27%;
+    }
+    .apply{
+      margin-left:20%;
+    }
+  }
